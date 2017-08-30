@@ -29,3 +29,7 @@ p {
 	color: gray;
 	font-size: 21px;
 }
+
+.heading,.video,.guide,.soon {
+	text-align: center;
+}
